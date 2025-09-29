@@ -30,7 +30,7 @@ Focus: clean modeling inside Power BI (Power Query + Data Model), clear **DAX KP
 <img width="1767" height="993" alt="image" src="https://github.com/user-attachments/assets/5a0a34f2-e48e-4e36-a44e-bc6474ea8b1d" />
 
 2. **Customers & Spend** — cuts by age/education/marital status; product spend mix (Wines/Meat/Fish/etc.); recency and visits.
-   <img width="1768" height="991" alt="image" src="https://github.com/user-attachments/assets/1f58205f-e018-4068-aa79-daf5c5ebe8f1" />
+<img width="1768" height="991" alt="image" src="https://github.com/user-attachments/assets/1f58205f-e018-4068-aa79-daf5c5ebe8f1" />
 
 3. **Campaign Results** — Acceptance %, ROI, and Profit by segments; response lift across demographics.
 <img width="1771" height="992" alt="image" src="https://github.com/user-attachments/assets/3e6aa5aa-82df-4680-b448-b6a2c58f7536" />
